@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Maks-yaf.github.io/rsschool-cv/cv
+https://Maks-yaf.github.io/rsschool-cv/

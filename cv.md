@@ -15,7 +15,24 @@ My primyry goal is enhance my knowledge in front-end develo[pment, improve my pr
 
 ## Code Examples
 
-``` javascript
+```javascript
 function isSquare(n) {
    return Math.sqrt(n) % 1 === 0;
 }
+```
+
+## Work Experience 
+- **Studing projects**:
+   Developed a responsive single-page application using React and Redux. Implemetned dynamic features with TypeScript.
+
+## Education 
+- Belarusian National Technical Unevesity 2014-2019
+- Courses: 
+   - JavaScriptBasic - Codeacademy
+   - HTML&CSS - FreedCodeCamp
+
+## Language 
+- **Russian**: Native
+- **English**: B1(intermediate)
+- **Polish**: B1(intermediate)
+
